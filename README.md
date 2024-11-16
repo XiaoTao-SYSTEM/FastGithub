@@ -1,8 +1,9 @@
 # FastGithub
 Github加速工具FastGithubWindows版的转存
 # 下载
-点击Code绿色按钮
-点击
+1.点击Code绿色按钮。
+2.点击Download ZIP按钮下载。
+3.解压.zip文件。
 # 使用
 ## 桌面版
 - 打开FastGithub.UI.exe即可
