@@ -1,5 +1,5 @@
 # FastGithub
-Github加速工具FastGithubWindows版的转存
+Github加速工具FastGithubWindows版的备份
 # 下载
 1.点击Code绿色按钮。
 2.点击Download ZIP按钮下载。
